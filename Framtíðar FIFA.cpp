@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
-in main()
+int main()
 {
-    long year="2022",yearimp,rimp;
+    long year=2022,yearimp,rimp;
     cin>>rimp;
     cout<<endl;
     cin>>yearimp;
