@@ -3,7 +3,7 @@ using namespace std;
 #include <string>
 
 int main() {
-    long fi;
+    long long fi;
     cin>>fi;
     cout<<fi*(0.09144);
 
