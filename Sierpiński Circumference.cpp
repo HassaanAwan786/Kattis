@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>  
+#include<math.h>
 using namespace std;
 
 int main(){
@@ -9,4 +10,5 @@ int main(){
         printf("Case %d: %d\n", cir, D_p);
         cir++;
     }
+    return 0;
 }
